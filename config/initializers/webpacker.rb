@@ -1,0 +1,1 @@
+Webpacker::Compiler.env["HEROKUAPP_WEBPACK_VAR"] = ENV["HEROKUAPP_WEBPACK_VAR"]
